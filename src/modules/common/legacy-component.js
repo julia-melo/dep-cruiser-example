@@ -1,0 +1,1 @@
+export const legacyComponent = 'this component is not used anymore'
