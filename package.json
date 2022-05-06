@@ -4,7 +4,7 @@
   "description": "Auxiliar project to dependency cruiser presentation",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "depcruise": "depcruise --config .dependency-cruiser.js src"
   },
   "repository": {
     "type": "git",
